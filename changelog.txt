@@ -1,0 +1,143 @@
+****************************
+
+  iBlogPro Release Notes: 
+
+****************************
+
+Version 4.2.6
+- Patched Cufon for IE9
+
+Version 4.2.5
+- Fixed WordPress 3.1 Carousel Issue
+
+Version 4.2.4
+-Page Options Fix
+
+Version 4.2.3
+- multisite test. comptability
+
+Version 4.2.2
+- drop-down backwards compatible (3.0 menus not needed)
+
+Version 4.2.1
+- IRC fixes (get_template_part(), etc)
+
+Version 4.2.0
+- Comments
+- Fixed PHP warnings
+- rewrote options handling
+- removed deprecated
+- removed pagecomments options (now follow WP standard for pages)
+
+Version 4.1.5
+- style tweak/deploy
+
+Version 4.1.4
+- play/pause feature nav fix
+- stylesheet refactoring
+
+Version 4.1.3
+- Added positions for menus
+- Menus Support Option
+- Changed PRO to PAGELINES_PRO re: plugin conflicts
+
+Version 4.1.2
+- Footer link change
+- Core update
+
+Version 4.1.1
+- Fixed feature boxes bug (6 or more)
+- changed post-footer icons / added FB
+
+Version 4.1.0
+- Cleaned up missing images/files
+
+Version 4.0.9
+- Core update - moved localization (3.1.6)
+
+Version 4.0.8
+- Core update
+- Localization enhancements
+
+Version 4.0.7
+- Fixed language folder name
+- Shortcodes on highlight pages
+
+Version 4.0.6
+- Core upgrade
+- Version fixes
+- Drop Down Third Tier fix
+
+Version 4.0.5
+- Localization bug fix
+
+Version 4.0.3
+- Font replacement optimizations
+- "Morefoot" (three widget column) bug fix
+
+Version 4.0.2
+- Font replacement optimizations
+- Typo fixes, and welcome screen 
+
+Version 4.0.0
+- TONS of options/features
+- Added PageLines core version 3.1.0 (shortcodes, option handling, feature improvements)
+- Add feature slides to any page, feature thumbnail navigation
+- Page Templates
+
+Version 3.6.5
+- Fixed duplicate JS library
+- Optimized images
+- Added additional documentation 
+
+Version 3.6.3
+- Excerpts Option Bug Fix  
+
+Version 3.6.2
+- Wp 2.9 thumbnail fix
+- Optimizations/bugfixes
+- Graphical fixes
+ 
+Version 3.6.0
+- Support for WP 2.9’s thumbnail feature
+- More iBlogPro forum integrations
+- Ads  - Added support for WP125, deprecated Ad-Minister
+- Search page fixes
+- More Localization Fixes
+- Bug fixes and optimizations
+
+Version 3.5.5
+- Drop Down IE Fix 
+- BBPress Compatibility
+- Localization Fixes (Thanks Jackey)
+
+Version 3.5.3
+- Accordion JS Fix
+
+Version 3.5.2
+- Drop Down Nav Option
+
+Version 3.5.1
+- Localization improvements (Thanks Ronald and Tang)
+- More page templates and options
+- Bugfixes (thanks again Ronald)
+
+Version 3.5.0
+- Complete Options Framework Rewrite + Design
+- Note: upgrade won't erase options
+- Javascript compatibility
+- Localization (added text domain)
+- Hide search option
+- Background CSS option
+- Partner link option
+- Meme Link Options
+- Category Items as Subnav on posts page
+- Debug mode
+- Feature page options
+- Default sidebar option
+- Carousel Page Template
+- Highlight Page Template
+- Icon & Graphic improvements
+- More options (miscellaneous)
+ 
+** Start Changelog tracking ** 
