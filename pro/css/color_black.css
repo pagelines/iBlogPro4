@@ -46,7 +46,7 @@
 }
 
 #wrapper #nav ul.dropdown ul{
-    background: #000 url(../images/bg_dropdown.png) repeat-x left bottom;
+    background: #000 url(../../images/bg_dropdown.png) repeat-x left bottom;
 }
 
 .page-nav, .wp-pagenavi{
